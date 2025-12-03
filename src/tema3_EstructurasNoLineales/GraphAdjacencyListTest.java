@@ -28,13 +28,17 @@ public class GraphAdjacencyListTest {
 
         tree.print();
         System.out.println("depth(5)" + tree.depth(5));
-        long fin = System.nanoTime(); // al igual que con el inicio se crea una para finalizar el contador e igualmente se llama al metodo nanoTime
 
+        System.out.print("Recorrido preorder desde la raíz (0): ");
+        tree.preorder(0);
+        System.out.println(); // Salto de línea
+        long fin = System.nanoTime(); // al igual que con el inicio se crea una para finalizar el contador e igualmente se llama al metodo nanoTime
         long duracionNs = fin - inicio; // mediante esta operacion se obtiene la duracion en nano segundos
         double duracionS = duracionNs / 1_000_000_000.0;
         /* para volverlos segundos, se debe dividir la variable con el resultado en nano segundos entre mil millones 
        y para mas exactitud se crea la variable en double (decimales grandes) y es por eso que al final del numero se agrega el .0*/
         System.out.println(duracionNs + "nano segundos");// se imprime la duracion en nano segundos la cual aperecera en la consola
         System.out.println(duracionS + "segundos"); // se imprime la duracion en segundos la cual aperecera en la consola
+
     }
 }
