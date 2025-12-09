@@ -6,7 +6,7 @@
 ### Esta es la prueba de edicion del archivo readme para la tarea de la materia Estructuras y Organizacion de Datos
 
 <div style="text-align: center;">
-	<img src="itess-logos/academia_tics_blue.png" alt="itess-tics-logo" title="itess-tics-logo" />
+	<img src="https://github.com/JoseAguilar27/TI-301_EyOD/blob/master/descarga%20(1).jpg" alt="itess-tics-logo" title="itess-tics-logo" />
 </div>
 
 
