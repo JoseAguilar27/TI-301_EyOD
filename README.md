@@ -7,4 +7,4 @@
 <img aling="left" alt="IMG" height="160px" src="https://itess.edu.mx/gob_edo_gto.html" /> 
 
 >[NOTE!]
-> Desde aqui puedes ir directamente al proyecto [Tema4Ordenamiento]( )
+> Desde aqui puedes ir directamente al proyecto [Tema4Ordenamiento](https://github.com/JoseAguilar27/TI-301_EyOD/tree/master/src/tema4_Ordenamiento)
