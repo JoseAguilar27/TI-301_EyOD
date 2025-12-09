@@ -1,6 +1,6 @@
 ### Hola a Todos 🥶 Yo soy [JoseAguilar27](https://github.com/JoseAguilar27/TI-301_EyOD/tree/master)
 
-<img align="right" alt="GIF" height="160px" src="[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif]/>
+<img align="right" alt="GIF" height="160px" src="[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif]>
 
 ### Esta es la prueba de edicion del archivo readme del profesor Fransisco Javier Montecillo 
 
