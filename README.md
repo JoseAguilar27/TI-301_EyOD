@@ -1,4 +1,4 @@
-### Hola a Todos 👋 Yo soy [JoseAguilar27]([https://github.com/JoseAguilar27/])
+### Hola a Todos 👋 Yo soy [JoseAguilar27]([[https://github.com/JoseAguilar27/](https://github.com/JoseAguilar27/TI-301_EyOD/)])
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
