@@ -1,13 +1,10 @@
-### Hi there 👋 I'm [Danushka!](https://github.com/JoseAguilar27/TI-301_EyOD/tree/master)
+### Hola a Todos 🥶 Yo soy [JoseAguilar27](https://github.com/JoseAguilar27/TI-301_EyOD/tree/master)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="[https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif]/>
 
-##### Languages I use most of the time
+### Esta es la prueba de edicion del archivo readme del profesor Fransisco Javier Montecillo 
 
-![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+
 
 ##### Some of the technologies I have worked with
 
